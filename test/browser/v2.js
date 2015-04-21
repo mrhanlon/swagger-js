@@ -15,7 +15,7 @@ var elements = [
   'header'
 ];
 
-describe('swagger 2.0 browser tests', function () {
+describe('swagger-js browser tests', function () {
   this.timeout(10 * 1000);
 
   before(function (done) {
